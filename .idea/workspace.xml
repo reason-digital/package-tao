@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d7b43fe-0af6-4a28-9107-1ae08115bf9d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="GroupAssignment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoDeliveryRdf/model/GroupAssignment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="144" column="49" lean-forward="false" selection-start-line="144" selection-start-column="49" selection-end-line="144" selection-end-column="49" />
+              <folding>
+                <marker date="1512474199895" expanded="false" signature="866:873" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="3122:3137" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="3122:3147" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="3122:3183" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="3192:3217" ph=" @deprecated ..." />
+                <marker date="1512474199895" expanded="true" signature="3263:3376" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="3394:3487" ph="  ..." />
+                <marker date="1512474199895" expanded="true" signature="3539:4035" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="3659:3771" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="3665:3725" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="3846:3991" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="3924:3981" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="4048:4069" ph=" Helpers ..." />
+                <marker date="1512474199895" expanded="true" signature="4079:4138" ph=" @param core_kernel_classes_Resource $delivery ..." />
+                <marker date="1512474199895" expanded="true" signature="4209:4688" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="4331:4441" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="4337:4395" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="4590:4681" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="4697:4749" ph=" @param User $user ..." />
+                <marker date="1512474199895" expanded="true" signature="4804:5436" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="4955:5368" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="5081:5358" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="5247:5344" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="5445:5649" ph=" Check if a user is excluded from a delivery ..." />
+                <marker date="1512474199895" expanded="true" signature="5743:5939" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="5949:6040" ph=" Search for deliveries configured for guest access ..." />
+                <marker date="1512474199895" expanded="true" signature="6089:6373" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="6208:6365" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="6227:6315" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="6382:6478" ph=" Check if current user is guest ..." />
+                <marker date="1512474199895" expanded="true" signature="6532:6593" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="6602:6694" ph=" @param string $deliveryIdentifier ..." />
+                <marker date="1512474199895" expanded="true" signature="6776:7020" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="7029:7133" ph=" @param core_kernel_classes_Resource $delivery ..." />
+                <marker date="1512474199895" expanded="true" signature="7230:7943" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="7394:7436" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="7444:7903" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="7607:7763" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="7613:7689" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="7698:7762" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="7957:8149" ph=" Check if delivery configured for guest access ..." />
+                <marker date="1512474199895" expanded="true" signature="8238:8815" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="8333:8430" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="8339:8429" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="8694:8774" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="8824:8928" ph=" @param core_kernel_classes_Resource $delivery ..." />
+                <marker date="1512474199895" expanded="true" signature="9017:9592" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="9417:9564" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="9601:9680" ph=" @param core_kernel_classes_Resource $delivery ..." />
+                <marker date="1512474199895" expanded="true" signature="9756:10584" ph="{...}" />
+                <marker date="1512474199895" expanded="true" signature="9819:9907" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="9825:9906" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="10405:10556" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="10597:10739" ph=" Check if the date are in range ..." />
+                <marker date="1512474199895" expanded="true" signature="10800:10930" ph="..." />
+                <marker date="1512474199895" expanded="true" signature="10944:11392" ph=" Order Assignments of a given user. ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generis/common/oatbox/user/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoResultServer/doc/rest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.QtiRestResults.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoResultServer/actions/class.QtiRestResults.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="81" column="14" lean-forward="false" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.RestResults.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoResultServer/actions/class.RestResults.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.GenerisUser.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generis/core/kernel/users/class.GenerisUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="785">
+              <caret line="69" column="47" lean-forward="false" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generis.rdf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generis/core/ontology/generis.rdf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1250">
+              <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generis.conf.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/generis.conf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generis/common/user/class.User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="59" column="53" lean-forward="false" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getAssignments(</find>
+      <find>getAssignments</find>
+      <find>getPropertyValues</find>
+      <find>getLatest</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/taoOpenId/manifest.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1909" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NVCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NVCO" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="NVCO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NVCO" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="taoResultServer" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d7b43fe-0af6-4a28-9107-1ae08115bf9d" name="Default" comment="" />
+      <created>1511880306078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511880306078</updated>
+      <workItem from="1511880308051" duration="2966000" />
+      <workItem from="1512050116518" duration="614000" />
+      <workItem from="1512118209359" duration="7589000" />
+      <workItem from="1512139164303" duration="3229000" />
+      <workItem from="1512375199675" duration="780000" />
+      <workItem from="1512462650790" duration="6211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21389000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1909" y="-11" width="1942" height="1062" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16864865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/SasTestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/TestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2350">
+          <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/actions/class.GenerisTree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="85" column="42" lean-forward="false" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/core/kernel/classes/class.Resource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10950">
+          <caret line="438" column="20" lean-forward="false" selection-start-line="438" selection-start-column="20" selection-end-line="438" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoGroups/controller/Groups.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/form/TestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/models/TestTakerService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/SasImport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/SasTestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/TestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1775">
+          <caret line="94" column="28" lean-forward="true" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/actions/class.GenerisTree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="85" column="42" lean-forward="false" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/core/kernel/classes/class.Resource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10450">
+          <caret line="438" column="20" lean-forward="false" selection-start-line="438" selection-start-column="20" selection-end-line="438" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoWorkspace/index.php" />
+    <entry file="file://$PROJECT_DIR$/taoWorkspace/composer.json" />
+    <entry file="file://$PROJECT_DIR$/taoGroups/controller/Groups.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/form/TestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/models/TestTakerService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/SasImport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/SasTestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/actions/form/class.Generis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2511">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoTestTaker/actions/TestTaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/actions/class.GenerisTree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="85" column="42" lean-forward="false" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/core/kernel/classes/class.Resource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="438" column="20" lean-forward="false" selection-start-line="438" selection-start-column="20" selection-end-line="438" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoDelivery/helper/Delivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoBackOffice/views/templates/Lists/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoDelivery/views/templates/DeliveryServer/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoBackOffice/controller/Lists.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoDelivery/views/templates/DeliveryServer/delivery_entry.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/manifest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/Connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/structures.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/ConsumerAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/views/templates/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoDelivery/model/AssignmentService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoDelivery/controller/DeliveryServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="95" column="62" lean-forward="false" selection-start-line="95" selection-start-column="62" selection-end-line="95" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoGroups/models/GroupsService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="97" column="32" lean-forward="false" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="78" column="20" lean-forward="false" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/common/user/class.User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="59" column="53" lean-forward="false" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/core/ontology/generis.rdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/generis.conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoDeliveryRdf/model/GroupAssignment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="144" column="49" lean-forward="false" selection-start-line="144" selection-start-column="49" selection-end-line="144" selection-end-column="49" />
+          <folding>
+            <marker date="1512474199895" expanded="false" signature="866:873" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="3122:3137" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="3122:3147" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="3122:3183" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="3192:3217" ph=" @deprecated ..." />
+            <marker date="1512474199895" expanded="true" signature="3263:3376" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="3394:3487" ph="  ..." />
+            <marker date="1512474199895" expanded="true" signature="3539:4035" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="3659:3771" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="3665:3725" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="3846:3991" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="3924:3981" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="4048:4069" ph=" Helpers ..." />
+            <marker date="1512474199895" expanded="true" signature="4079:4138" ph=" @param core_kernel_classes_Resource $delivery ..." />
+            <marker date="1512474199895" expanded="true" signature="4209:4688" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="4331:4441" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="4337:4395" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="4590:4681" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="4697:4749" ph=" @param User $user ..." />
+            <marker date="1512474199895" expanded="true" signature="4804:5436" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="4955:5368" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="5081:5358" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="5247:5344" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="5445:5649" ph=" Check if a user is excluded from a delivery ..." />
+            <marker date="1512474199895" expanded="true" signature="5743:5939" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="5949:6040" ph=" Search for deliveries configured for guest access ..." />
+            <marker date="1512474199895" expanded="true" signature="6089:6373" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="6208:6365" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="6227:6315" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="6382:6478" ph=" Check if current user is guest ..." />
+            <marker date="1512474199895" expanded="true" signature="6532:6593" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="6602:6694" ph=" @param string $deliveryIdentifier ..." />
+            <marker date="1512474199895" expanded="true" signature="6776:7020" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="7029:7133" ph=" @param core_kernel_classes_Resource $delivery ..." />
+            <marker date="1512474199895" expanded="true" signature="7230:7943" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="7394:7436" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="7444:7903" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="7607:7763" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="7613:7689" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="7698:7762" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="7957:8149" ph=" Check if delivery configured for guest access ..." />
+            <marker date="1512474199895" expanded="true" signature="8238:8815" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="8333:8430" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="8339:8429" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="8694:8774" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="8824:8928" ph=" @param core_kernel_classes_Resource $delivery ..." />
+            <marker date="1512474199895" expanded="true" signature="9017:9592" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="9417:9564" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="9601:9680" ph=" @param core_kernel_classes_Resource $delivery ..." />
+            <marker date="1512474199895" expanded="true" signature="9756:10584" ph="{...}" />
+            <marker date="1512474199895" expanded="true" signature="9819:9907" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="9825:9906" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="10405:10556" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="10597:10739" ph=" Check if the date are in range ..." />
+            <marker date="1512474199895" expanded="true" signature="10800:10930" ph="..." />
+            <marker date="1512474199895" expanded="true" signature="10944:11392" ph=" Order Assignments of a given user. ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/common/oatbox/user/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generis/core/kernel/users/class.GenerisUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="69" column="47" lean-forward="false" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoResultServer/actions/class.RestResults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoResultServer/doc/rest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoResultServer/actions/class.QtiRestResults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="81" column="14" lean-forward="false" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

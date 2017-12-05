@@ -55,7 +55,7 @@
   "minimum-stability": "dev",
   "homepage": "http://www.taotesting.com",
   "require": {
-    "oat-sa/generis": "~4.1.1",
+    "oat-sa/generis": "~5.6.0",
     "oat-sa/tao-core": "~12.16.0",
     "oat-sa/extension-tao-community": "~3.4.1",
     "oat-sa/extension-tao-funcacl": "~4.0.0",
@@ -85,7 +85,9 @@
     "oat-sa/extension-tao-proctoring": "~7.3.3",
     "oat-sa/extension-tao-clientdiag": "~2.5.6",
     "oat-sa/extension-tao-eventlog": "~1.1.2",
-    "doctrine/inflector": "~1.0.0"
+    "doctrine/inflector": "~1.0.0",
+    "oat-sa/extension-tao-openid": "^1.1",
+    "oat-sa/extension-tao-devtools": "^3.6"
   },
   "description": "TAO is an Open Source e-Testing platform that empowers you to build, deliver, and share innovative and engaging assessments online – in any language or subject matter."
 }
