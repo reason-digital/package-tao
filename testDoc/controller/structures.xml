@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="testDoc_main" name="testDoc" level="15" group="main">
+		<description />
+		<sections>
+			<section id="testDoc_main" name="testDoc" url="/testDoc/TestDoc/index" />
+			<section id="testDoc_other" name="Template" url="/testDoc/TestDoc/templateExample" />
+		</sections>
+	</structure>
+</structures>
