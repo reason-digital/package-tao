@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="124e75b7-5b53-4275-8fc3-f51ae7202750" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/config/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fdl-1.3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gpl-2.0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/manifest.php" afterPath="$PROJECT_DIR$/pciSamples/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/pciSamples/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/build/grunt/sass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/build/grunt/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/css/textReaderInteraction.css" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/css/textReaderInteraction.css" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/css/textReaderInteraction.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/js/userTooltips.js" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/js/userTooltips.js" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/scss/textReaderInteraction.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/tpl/pages.tpl" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/tpl/pages.tpl" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/tpl/propertiesForm.tpl" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/tpl/propertiesForm.tpl" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/tpl/userTooltips/authoring.tpl" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/tpl/userTooltips/authoring.tpl" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/widget/states/Question.js" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/creator/widget/states/Question.js" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/pciCreator.js" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/pciCreator.js" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/pciCreator.json" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/pciCreator.json" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/css/textReaderInteraction.css" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/css/textReaderInteraction.css" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/css/textReaderInteraction.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/js/renderer.js" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/js/renderer.js" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/js/tabs.js" afterPath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/js/tabs.js" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/js/textReaderInteraction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/scss/textReaderInteraction.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/textReaderInteraction.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pciSamples/views/js/pciCreator/dev/textReaderInteraction/runtime/textReaderInteraction.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/phpunit.xml" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/controller/Lists.php" afterPath="$PROJECT_DIR$/taoBackOffice/controller/Lists.php" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/controller/structures.xml" afterPath="$PROJECT_DIR$/taoBackOffice/controller/structures.xml" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/manifest.php" afterPath="$PROJECT_DIR$/taoBackOffice/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/model/menuStructure/Action.php" afterPath="$PROJECT_DIR$/taoBackOffice/model/menuStructure/Action.php" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/model/menuStructure/ClassActionRegistry.php" afterPath="$PROJECT_DIR$/taoBackOffice/model/menuStructure/ClassActionRegistry.php" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoBackOffice/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/views/css/list.css" afterPath="$PROJECT_DIR$/taoBackOffice/views/css/list.css" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/views/css/list.css.map" afterPath="$PROJECT_DIR$/taoBackOffice/views/css/list.css.map" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/views/js/controllers.min.js" afterPath="$PROJECT_DIR$/taoBackOffice/views/js/controllers.min.js" />
+      <change beforePath="$PROJECT_DIR$/taoBackOffice/views/js/controllers.min.js.map" afterPath="$PROJECT_DIR$/taoBackOffice/views/js/controllers.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/default/DiagnosticService.conf.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/config/default/DiagnosticService.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/default/SchoolNameService.conf.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/default/authorization.conf.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/config/default/authorization.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/default/clientDiag.conf.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/config/default/clientDiag.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/default/storage.conf.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/config/default/storage.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/header/authorization.conf.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/config/header/authorization.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/config/header/storage.conf.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/config/header/storage.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/controller/CompatibilityChecker.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/controller/CompatibilityChecker.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/controller/Diagnostic.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/controller/Diagnostic.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/controller/DiagnosticChecker.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/controller/DiagnosticChecker.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/en-US/messages.po" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/en-US/messages.po" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/en-US/roles.rdf.po" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/messages.lang.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/messages.lang.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/messages.po" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/messages.po" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/messages_po.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/messages_po.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/fr-FR/roles.rdf.po" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/messages.lang.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/messages.lang.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/messages.po" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/messages.po" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/messages_po.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/messages_po.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/it-IT/roles.rdf.po" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/pt-PT/messages.lang.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/pt-PT/messages.po" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/pt-PT/messages_po.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/locales/pt-PT/roles.rdf.po" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/manifest.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/browserDetector/Base.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/model/browserDetector/Base.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/diagnostic/DiagnosticDataTable.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/model/diagnostic/DiagnosticDataTable.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/diagnostic/DiagnosticService.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/model/diagnostic/DiagnosticService.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/diagnostic/DiagnosticServiceInterface.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/model/diagnostic/DiagnosticServiceInterface.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/schoolName/SchoolNameProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/schoolName/SchoolNameService.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/storage/PaginatedSqlStorage.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/model/storage/PaginatedSqlStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/model/storage/Storage.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/model/storage/Storage.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/scripts/config/AddCustomInputMappingEntry.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/scripts/install/ActivateMediaIntensiveCheck.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/scripts/install/createDiagnosticTable.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/scripts/install/createDiagnosticTable.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/test/CompatibilityCheckerTest.php" afterPath="$PROJECT_DIR$/taoClientDiagnostic/test/CompatibilityCheckerTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/css/diagnostics.css" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/css/diagnostics.css" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/css/diagnostics.css.map" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/css/diagnostics.css.map" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controller/Diagnostic/diagnostic.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controller/Diagnostic/diagnostic.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controller/Diagnostic/index.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controller/Diagnostic/index.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controller/routes.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controller/routes.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controllers.min.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controllers.min.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controllers.min.js.map" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/controllers.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/lib/fingerprint/fingerprint2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/templates/diagnostic/main.tpl" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/templates/diagnostic/main.tpl" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/bandwidth/test.html" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/bandwidth/test.html" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/bandwidth/test.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/bandwidth/test.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/fingerprint/fingerprintMock.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/fingerprint/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/fingerprint/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getConfig/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getConfig/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getLabels/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getLabels/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getPlatformInfo/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getPlatformInfo/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getStatus/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/getStatus/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/message/feedbackMock.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/message/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/message/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/performances/test.html" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/performances/test.html" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/performances/test.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/performances/test.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/upload/test.html" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/upload/test.html" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/upload/test.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/test/tools/upload/test.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/bandwidth/tester.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/bandwidth/tester.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/browser/tester.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/browser/tester.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/diagnostic.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/diagnostic.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/details.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/feedback.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/fingerprint.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/main.tpl" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/main.tpl" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/quality-bar.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/result.tpl" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/diagnostic/tpl/result.tpl" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/fingerprint/tester.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/getConfig.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/getConfig.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/getLabels.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/getPlatformInfo.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/getPlatformInfo.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/getStatus.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/performances/tester.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/performances/tester.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/upload/tester.js" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/js/tools/upload/tester.js" />
+      <change beforePath="$PROJECT_DIR$/taoClientDiagnostic/views/scss/diagnostics.scss" afterPath="$PROJECT_DIR$/taoClientDiagnostic/views/scss/diagnostics.scss" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/README.md" afterPath="$PROJECT_DIR$/taoDeliveryRdf/README.md" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/config/default/DeliveryMgmt.conf.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/controller/DeliveryMgmt.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/controller/DeliveryMgmt.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/controller/RestDelivery.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/controller/RestDelivery.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/controller/RestTest.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/controller/RestTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/controller/structures.xml" afterPath="$PROJECT_DIR$/taoDeliveryRdf/controller/structures.xml" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/doc/rest.json" afterPath="$PROJECT_DIR$/taoDeliveryRdf/doc/rest.json" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/helper/DeliveryWidget.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/helper/DeliveryWidget.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/includes/constants.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/includes/constants.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/install/RegisterDeliveryFactoryService.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/install/RegisterDeliveryFactoryService.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/install/ontology/taodelivery.rdf" afterPath="$PROJECT_DIR$/taoDeliveryRdf/install/ontology/taodelivery.rdf" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/manifest.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/AssignmentFactory.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/AssignmentFactory.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryArchiveService.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryAssemblyService.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryAssemblyService.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryContainerService.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryContainerService.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryFactory.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/DeliveryFactory.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/GroupAssignment.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/GroupAssignment.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/guest/GuestTestUser.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/guest/GuestTestUser.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/import/Assembler.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/import/Assembler.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/tasks/CompileDelivery.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/tasks/CompileDelivery.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/tasks/ImportAndCompile.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/model/tasks/ImportAndCompile.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/model/tasks/UpdateDelivery.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/RecompileDelivery.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/scripts/RecompileDelivery.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/install/SetUpQueueTasks.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/tools/DeliveryExecutionArchive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/tools/RegisterDeliveryArchive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/tools/UnRegisterDeliveryArchive.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/tools/jMeterCleaner.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/scripts/tools/jMeterCleaner.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/test/controller/RestDeliveryTest.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/test/controller/RestDeliveryTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/test/model/DeliveryAssemblyServiceTest.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/test/model/DeliveryAssemblyServiceTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/test/model/GroupAssignmentTest.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/test/model/GroupAssignmentTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/view/form/DeliveryForm.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/view/form/DeliveryForm.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/view/form/WizardForm.php" afterPath="$PROJECT_DIR$/taoDeliveryRdf/view/form/WizardForm.php" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/build/grunt/bundle.js" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/build/grunt/bundle.js" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/css/delivery-rdf.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/css/delivery-rdf.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controller/DeliveryMgmt/editDelivery.js" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controller/DeliveryMgmt/editDelivery.js" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controller/DeliveryMgmt/wizard.js" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controller/DeliveryMgmt/wizard.js" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controllers.min.js" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controllers.min.js" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controllers.min.js.map" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/js/controllers.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/scss/delivery-rdf.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/scss/inc/_delivery-form.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/scss/inc/_test-takers.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/templates/DeliveryMgmt/editDelivery.tpl" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/templates/DeliveryMgmt/editDelivery.tpl" />
+      <change beforePath="$PROJECT_DIR$/taoDeliveryRdf/views/templates/DeliveryMgmt/excludeTesttaker.tpl" afterPath="$PROJECT_DIR$/taoDeliveryRdf/views/templates/DeliveryMgmt/excludeTesttaker.tpl" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/controller/TaoEventLog.php" afterPath="$PROJECT_DIR$/taoEventLog/controller/TaoEventLog.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/manifest.php" afterPath="$PROJECT_DIR$/taoEventLog/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/LogEntity.php" afterPath="$PROJECT_DIR$/taoEventLog/model/LogEntity.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/LoggerService.php" afterPath="$PROJECT_DIR$/taoEventLog/model/LoggerService.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/RdsLogIterator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/datatable/EventLogDatatable.php" afterPath="$PROJECT_DIR$/taoEventLog/model/datatable/EventLogDatatable.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/eventLog/EventLogEntity.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/eventLog/LoggerService.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/eventLog/RdsStorage.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/export/implementation/LogEntryCsvExporter.php" afterPath="$PROJECT_DIR$/taoEventLog/model/export/implementation/LogEntryCsvExporter.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/AbstractRequestLogStorage.php" afterPath="$PROJECT_DIR$/taoEventLog/model/requestLog/AbstractRequestLogStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/RequestLogException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/RequestLogService.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/RequestLogStorageReadable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/RequestLogStorageWritable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/fluentd/FluentdTcpStorage.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/fluentd/FluentdUdpStorage.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/rds/RdsRequestLogIterator.php" afterPath="$PROJECT_DIR$/taoEventLog/model/requestLog/rds/RdsRequestLogIterator.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/requestLog/rds/RdsRequestLogStorage.php" afterPath="$PROJECT_DIR$/taoEventLog/model/requestLog/rds/RdsRequestLogStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/storage/AbstractRdsStorage.php" afterPath="$PROJECT_DIR$/taoEventLog/model/storage/AbstractRdsStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/storage/RdsStorage.php" afterPath="$PROJECT_DIR$/taoEventLog/model/storage/RdsStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/userLastActivityLog/UserLastActivityLog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/model/userLastActivityLog/rds/UserLastActivityLogStorage.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterLoggerService.php" afterPath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterLoggerService.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterRdsStorage.php" afterPath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterRdsStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterRequestLog.php" afterPath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterRequestLog.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/scripts/install/RegisterUserLastActivityLog.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/scripts/uninstall/DetachLoggerEvents.php" afterPath="$PROJECT_DIR$/taoEventLog/scripts/uninstall/DetachLoggerEvents.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoEventLog/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/test/model/requestLog/rds/RdsRequestLogIteratorTest.php" afterPath="$PROJECT_DIR$/taoEventLog/test/model/requestLog/rds/RdsRequestLogIteratorTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/test/model/storage/RdsStorageTest.php" afterPath="$PROJECT_DIR$/taoEventLog/test/model/storage/RdsStorageTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/test/model/userLastActivityLog/rds/UserActivityLogStorageTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/views/js/controllers.min.js" afterPath="$PROJECT_DIR$/taoEventLog/views/js/controllers.min.js" />
+      <change beforePath="$PROJECT_DIR$/taoEventLog/views/js/controllers.min.js.map" afterPath="$PROJECT_DIR$/taoEventLog/views/js/controllers.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/actions/structures.xml" afterPath="$PROJECT_DIR$/taoMediaManager/actions/structures.xml" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/includes/constants.php" afterPath="$PROJECT_DIR$/taoMediaManager/includes/constants.php" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/manifest.php" afterPath="$PROJECT_DIR$/taoMediaManager/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/model/FileImportForm.php" afterPath="$PROJECT_DIR$/taoMediaManager/model/FileImportForm.php" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/model/MediaService.php" afterPath="$PROJECT_DIR$/taoMediaManager/model/MediaService.php" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/model/MediaSource.php" afterPath="$PROJECT_DIR$/taoMediaManager/model/MediaSource.php" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoMediaManager/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/views/css/media.css" afterPath="$PROJECT_DIR$/taoMediaManager/views/css/media.css" />
+      <change beforePath="$PROJECT_DIR$/taoMediaManager/views/css/media.css.map" afterPath="$PROJECT_DIR$/taoMediaManager/views/css/media.css.map" />
+      <change beforePath="$PROJECT_DIR$/taoOpenId/composer.json" afterPath="$PROJECT_DIR$/taoOpenId/composer.json" />
+      <change beforePath="$PROJECT_DIR$/taoOpenId/manifest.php" afterPath="$PROJECT_DIR$/taoOpenId/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoOpenId/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoOpenId/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/config/default/ActivityMonitoringService.conf.php" afterPath="$PROJECT_DIR$/taoProctoring/config/default/ActivityMonitoringService.conf.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/controller/Monitor.php" afterPath="$PROJECT_DIR$/taoProctoring/controller/Monitor.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/controller/MonitorProctorAdministrator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/controller/Tools.php" afterPath="$PROJECT_DIR$/taoProctoring/controller/Tools.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/helpers/DeliveryHelper.php" afterPath="$PROJECT_DIR$/taoProctoring/helpers/DeliveryHelper.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/locales/en-US/proctor.rdf.po" afterPath="$PROJECT_DIR$/taoProctoring/locales/en-US/proctor.rdf.po" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/locales/en-US/proctoring.rdf.po" afterPath="$PROJECT_DIR$/taoProctoring/locales/en-US/proctoring.rdf.po" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/locales/es-ES/messages.lang.php" afterPath="$PROJECT_DIR$/taoProctoring/locales/es-ES/messages.lang.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/locales/es-ES/messages.po" afterPath="$PROJECT_DIR$/taoProctoring/locales/es-ES/messages.po" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/locales/es-ES/messages_po.js" afterPath="$PROJECT_DIR$/taoProctoring/locales/es-ES/messages_po.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/locales/es-ES/proctoring.rdf.po" afterPath="$PROJECT_DIR$/taoProctoring/locales/es-ES/proctoring.rdf.po" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/manifest.php" afterPath="$PROJECT_DIR$/taoProctoring/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/ActivityMonitoringService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/ActivityMonitoringService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/AssessmentResultsService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/AssessmentResultsService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/DeliveryExecutionStateService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/DeliveryExecutionStateService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/DeliveryServerService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/DeliveryServerService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/ProctorService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/ProctorService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/authorization/TestTakerAuthorizationService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/authorization/TestTakerAuthorizationService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/datatable/DeliveriesActivityDatatable.php" afterPath="$PROJECT_DIR$/taoProctoring/model/datatable/DeliveriesActivityDatatable.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/deliveryLog/implementation/RdsDeliveryLogService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/deliveryLog/implementation/RdsDeliveryLogService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/event/DeliveryExecutionReactivated.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/execution/DeliveryExecution.php" afterPath="$PROJECT_DIR$/taoProctoring/model/execution/DeliveryExecution.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/execution/DeliveryExecutionManagerService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/execution/DeliveryExecutionManagerService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/execution/ProctoredSectionPauseService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/execution/ProctoredSectionPauseService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/implementation/DeliveryExecutionStateService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/implementation/DeliveryExecutionStateService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/implementation/TestRunnerMessageService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/implementation/TestRunnerMessageService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/implementation/TestSessionHistoryService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/implementation/TestSessionHistoryService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/implementation/TestSessionService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/implementation/TestSessionService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/monitorCache/DeliveryMonitoringService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/monitorCache/DeliveryMonitoringService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/monitorCache/implementation/DeliveryMonitoringData.php" afterPath="$PROJECT_DIR$/taoProctoring/model/monitorCache/implementation/DeliveryMonitoringData.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/monitorCache/implementation/MonitorCacheService.php" afterPath="$PROJECT_DIR$/taoProctoring/model/monitorCache/implementation/MonitorCacheService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/monitorCache/implementation/MonitoringStorage.php" afterPath="$PROJECT_DIR$/taoProctoring/model/monitorCache/implementation/MonitoringStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/monitorCache/update/TestTakerUpdate.php" afterPath="$PROJECT_DIR$/taoProctoring/model/monitorCache/update/TestTakerUpdate.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/model/monitorCache/update/TestUpdate.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/TerminatePausedAssessment.php" afterPath="$PROJECT_DIR$/taoProctoring/scripts/TerminatePausedAssessment.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/install/RegisterRunnerMessageService.php" afterPath="$PROJECT_DIR$/taoProctoring/scripts/install/RegisterRunnerMessageService.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/install/RegisterServices.php" afterPath="$PROJECT_DIR$/taoProctoring/scripts/install/RegisterServices.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/install/SetupDeliveryMonitoring.php" afterPath="$PROJECT_DIR$/taoProctoring/scripts/install/SetupDeliveryMonitoring.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/install/SetupProctoringEventListeners.php" afterPath="$PROJECT_DIR$/taoProctoring/scripts/install/SetupProctoringEventListeners.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/install/proctoring.rdf" afterPath="$PROJECT_DIR$/taoProctoring/scripts/install/proctoring.rdf" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoProctoring/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/test/monitorCache/DeliveryMonitoringServiceTest.php" afterPath="$PROJECT_DIR$/taoProctoring/test/monitorCache/DeliveryMonitoringServiceTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/css/proctoring.css.map" afterPath="$PROJECT_DIR$/taoProctoring/views/css/proctoring.css.map" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/deliveriesList/deliveriesList.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/deliveriesList/deliveriesList.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/userActivity/userActivity.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/userActivity/userActivity.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/userActivity/userActivity.tpl" afterPath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/userActivity/userActivity.tpl" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/component/activityMonitoring/userActivity/userActivityBlock.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/controller/Delivery/index.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/controller/Delivery/index.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/controller/Delivery/monitoring.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/controller/Delivery/monitoring.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/controller/Tools/assessmentActivity.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/controller/Tools/assessmentActivity.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/controllers.min.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/controllers.min.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/controllers.min.js.map" afterPath="$PROJECT_DIR$/taoProctoring/views/js/controllers.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/helper/status.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/helper/status.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/loader/app.min.js" afterPath="$PROJECT_DIR$/taoProctoring/views/js/loader/app.min.js" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/loader/app.min.js.map" afterPath="$PROJECT_DIR$/taoProctoring/views/js/loader/app.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoProctoring/views/js/templates/delivery/approximatedTimer.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/helper/CloneHelper.php" afterPath="$PROJECT_DIR$/taoRevision/helper/CloneHelper.php" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/manifest.php" afterPath="$PROJECT_DIR$/taoRevision/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/model/rds/Storage.php" afterPath="$PROJECT_DIR$/taoRevision/model/rds/Storage.php" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/model/storage/RdsStorage.php" afterPath="$PROJECT_DIR$/taoRevision/model/storage/RdsStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoRevision/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/test/helper/DeleteHelperTest.php" afterPath="$PROJECT_DIR$/taoRevision/test/helper/DeleteHelperTest.php" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/views/css/revision.css" afterPath="$PROJECT_DIR$/taoRevision/views/css/revision.css" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/views/css/revision.css.map" afterPath="$PROJECT_DIR$/taoRevision/views/css/revision.css.map" />
+      <change beforePath="$PROJECT_DIR$/taoRevision/views/js/controllers.min.js.map" afterPath="$PROJECT_DIR$/taoRevision/views/js/controllers.min.js.map" />
+      <change beforePath="$PROJECT_DIR$/taoTestLinear/controller/Authoring.php" afterPath="$PROJECT_DIR$/taoTestLinear/controller/Authoring.php" />
+      <change beforePath="$PROJECT_DIR$/taoTestLinear/manifest.php" afterPath="$PROJECT_DIR$/taoTestLinear/manifest.php" />
+      <change beforePath="$PROJECT_DIR$/taoTestLinear/model/storage/DeprecatedStorage.php" afterPath="$PROJECT_DIR$/taoTestLinear/model/storage/DeprecatedStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoTestLinear/model/storage/FlyStorage.php" afterPath="$PROJECT_DIR$/taoTestLinear/model/storage/FlyStorage.php" />
+      <change beforePath="$PROJECT_DIR$/taoTestLinear/scripts/update/Updater.php" afterPath="$PROJECT_DIR$/taoTestLinear/scripts/update/Updater.php" />
+      <change beforePath="$PROJECT_DIR$/taoTestLinear/test/model/TestModelTest.php" afterPath="$PROJECT_DIR$/taoTestLinear/test/model/TestModelTest.php" />
+      <change beforePath="$PROJECT_DIR$/tests/bootstrap/bootstrap.php" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deliv</find>
+      <find>oat-sa/extension-tao-delivery-rdf</find>
+      <find>oat-sa/extension-tao-delivery</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1909" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ncvo-new-tao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncvo-new-tao" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ncvo-new-tao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncvo-new-tao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tao" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ncvo-new-tao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ncvo-new-tao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tao" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="install" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="124e75b7-5b53-4275-8fc3-f51ae7202750" name="Default" comment="" />
+      <created>1516352995451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516352995451</updated>
+      <workItem from="1516352998340" duration="6467000" />
+      <workItem from="1516630859299" duration="451000" />
+      <workItem from="1517387632471" duration="3162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2869" y="-11" width="2902" height="1582" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15017794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/install/class.Installator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12570">
+          <caret line="441" column="24" lean-forward="false" selection-start-line="441" selection-start-column="24" selection-end-line="441" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="71" column="54" lean-forward="false" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/Connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/ConsumerAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/ConsumerAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/config/default/RP.conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/controller/Connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoOpenId/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/install/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tao/install/class.Installator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="441" column="24" lean-forward="false" selection-start-line="441" selection-start-column="24" selection-end-line="441" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="75" column="53" lean-forward="true" selection-start-line="75" selection-start-column="53" selection-end-line="75" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
